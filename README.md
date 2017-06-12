@@ -20,4 +20,4 @@ You'll be coding your solution in `lib/pinterest.rb`
 
 **6.** Now users need to be able to delete pins. Define a `delete_pin` method. This method should accept an argument, which is the pin you want to delete. The method should check to make sure you did in fact originally pin that item, and delete it if you did. If you didn't, it should return "You never pinned that pin."
 
-**7.** Make sure you submit the lesson!
+**7.** Make sure you push your work!
